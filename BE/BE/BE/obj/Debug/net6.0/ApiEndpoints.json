@@ -182,7 +182,7 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "sanPham",
+        "Name": "request",
         "Type": "BE.Models.SanPham",
         "IsRequired": true
       }
@@ -229,11 +229,21 @@
         "IsRequired": true
       },
       {
-        "Name": "updatedSanPham",
+        "Name": "request",
         "Type": "BE.Models.SanPham",
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE.Controllers.BannerSliderController",
+    "Method": "GetBannerSlider",
+    "RelativePath": "api/BannerSlider/slider",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {
@@ -313,6 +323,58 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE.Controllers.SanPhamController",
+    "Method": "GetSanPhamById",
+    "RelativePath": "api/SanPham/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE.Controllers.SanPhamController",
+    "Method": "GetAllSanPham",
+    "RelativePath": "api/SanPham/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE.Controllers.SanPhamController",
+    "Method": "GetSanPhamByCategory",
+    "RelativePath": "api/SanPham/by-category/{categoryId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "categoryId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE.Controllers.SanPhamController",
+    "Method": "GetFeaturedSanPham",
+    "RelativePath": "api/SanPham/featured",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {

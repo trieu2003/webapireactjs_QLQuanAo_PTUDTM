@@ -8,6 +8,8 @@ import AdminHome from "./pages/AdminHome"; // Trang dành cho Admin
 import NhanVienHome from "./pages/NhanVienHome"; // Trang dành cho Nhân viên
 import AdminMenu from "./pages/AdminMenu";
 import CustomerMenu from "./pages/CustomerMenu";
+import KhachHangHome from "./pages/KhachHangHome";
+import ProductDetails from "./pages/ProductDetails";
 
 const App = () => {
   return (
@@ -16,12 +18,15 @@ const App = () => {
         <Route path="/" element={<Login />} /> {/* Trang login */}
        {/* Trang dành cho Admin */}
        <Route path="/pages/AdminHome" element={<AdminHome />} />
-
+       <Route path="/KhachHangHome" element={<KhachHangHome />} />
+       <Route path="/product/:id" element={<ProductDetails />} />
+       
 {/* Trang dành cho Nhân viên */}
-<Route path="/pages/NhanVienHome" element={<NhanVienHome />} />
+      <Route path="/pages/NhanVienHome" element={<NhanVienHome />} />
         <Route path="/ChangePassword" element={<ChangePassword />} /> {/* Trang đổi mật khất */}
         <Route path="/UserInfo" element={<UserInfo />} /> {/* Trang thống tin người dùng */}
       </Routes>
+     
     </Router>
   );
 };
