@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZlVHVD8D7tg=",
+  "dgSpecHash": "QzM8WUosd4o=",
   "success": true,
-  "projectFilePath": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\BE.csproj",
+  "projectFilePath": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\BE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI PC\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\MSI PC\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

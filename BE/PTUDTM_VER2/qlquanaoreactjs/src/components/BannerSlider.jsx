@@ -246,6 +246,8 @@ const BannerSlider = () => {
               <h2 className="text-7xl font-bold">{slide.tensanpham}</h2>
               <p className="mt-2 text-xl">Giá: {slide.gia.toLocaleString()} VND</p>
               <p className="mt-2">{slide.chatlieu}</p>
+              <p className="mt-2">{slide.mota}</p>
+
               <p className="mt-2">
                 Khuyến mãi: {slide.khuyenMai || "Không có khuyến mãi"}
               </p>

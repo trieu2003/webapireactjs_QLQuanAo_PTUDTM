@@ -52,6 +52,8 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import { api } from "../api/axios";
+import Header from "../components/Header";
+import Footer from "../components/Footer";
 
 const ProductDetails = () => {
   const { id } = useParams();
@@ -81,7 +83,10 @@ const ProductDetails = () => {
   const imageBasePath = "../src/assets/images/";
 
   return (
+    <div className="flex flex-col min-h-screen"> 
+   <Header />
     <div className="container mx-auto py-12 px-6">
+      
       {/* Tiêu đề */}
       <h1 className="text-4xl font-extrabold mb-6 text-gray-800 text-center">
         {product?.tensanpham || "Sản phẩm không tồn tại"}
@@ -164,6 +169,9 @@ const ProductDetails = () => {
           {/* Lặp danh sách sản phẩm tương tự */}
         </div>
       </div>
+    
+    </div>
+    <Footer></Footer>
     </div>
   );
 };

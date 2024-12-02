@@ -19,7 +19,7 @@ namespace BE.Data
         public DbSet<LoaiSanPham> LoaiSanPham { get; set; }
         public DbSet<NhanHieu> NhanHieu { get; set; }
         public DbSet<KhuyenMai> KhuyenMai { get; set; }
-
+        public DbSet<MoTaSanPham> MoTaSanPham { get; set; } // Thêm DbSet mới
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

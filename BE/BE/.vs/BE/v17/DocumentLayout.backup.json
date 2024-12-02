@@ -1,153 +1,153 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\",
+  "WorkspaceRootPath": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\models\\thongtinadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\models\\thongtinadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\models\\taikhoanuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\models\\taikhoanuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\models\\nhomquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\models\\nhomquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\models\\nhanhieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\models\\nhanhieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\models\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\models\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\controllers\\bannerslidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\controllers\\bannerslidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\models\\motasanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\models\\motasanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\models\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\models\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\models\\nhanhieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\models\\nhanhieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\controllers\\adminsanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\models\\thongtinadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\models\\thongtinadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\models\\taikhoanuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\models\\taikhoanuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\models\\nhomquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\models\\nhomquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\models\\nguoidung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\controllers\\bannerslidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\controllers\\bannerslidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\controllers\\adminsanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\controllers\\adminsanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\controllers\\adminhoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\controllers\\adminhoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\controllers\\adminhoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\controllers\\adminnguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\controllers\\adminnguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\controllers\\adminnguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\services\\nguoidungservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\services\\nguoidungservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\services\\nguoidungservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\dtors\\sanphamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\dtors\\sanphamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\dtors\\sanphamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\dtors\\nguoidungdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\dtors\\nguoidungdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\dtors\\nguoidungdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\helpers\\paginationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\helpers\\paginationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\helpers\\paginationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\middlewarres\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\middlewarres\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\middlewarres\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\middlewarres\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\middlewarres\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\middlewarres\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\services\\inguoidungservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\services\\inguoidungservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\services\\inguoidungservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\repositories\\nguoidungrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\repositories\\nguoidungrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\repositories\\nguoidungrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\repositories\\inguoidungrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\repositories\\inguoidungrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\repositories\\inguoidungrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\be.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\be.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\services\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\services\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\services\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|p:\\hk7\\trieutonghopdoan\\da_ptudtm\\githubdoan\\webapireactjs_qlquanao_ptudtm\\be\\be\\be\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C4B5533-7C36-4E1B-B54C-257774C0856B}|BE\\BE.csproj|solutionrelative:be\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -158,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -170,23 +170,115 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NhanHieu.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\NhanHieu.cs",
-              "RelativeDocumentMoniker": "BE\\Models\\NhanHieu.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\NhanHieu.cs",
-              "RelativeToolTip": "BE\\Models\\NhanHieu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "MoTaSanPham.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\MoTaSanPham.cs",
+              "RelativeDocumentMoniker": "BE\\Models\\MoTaSanPham.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\MoTaSanPham.cs*",
+              "RelativeToolTip": "BE\\Models\\MoTaSanPham.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T20:57:36.067Z"
+              "WhenOpened": "2024-12-02T17:46:47.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoaiSanPham.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\LoaiSanPham.cs",
+              "RelativeDocumentMoniker": "BE\\Models\\LoaiSanPham.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\LoaiSanPham.cs",
+              "RelativeToolTip": "BE\\Models\\LoaiSanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:57:03.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "BE\\Models\\SanPham.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\SanPham.cs",
+              "RelativeToolTip": "BE\\Models\\SanPham.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:30:52.862Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "KhuyenMai.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\KhuyenMai.cs",
+              "RelativeDocumentMoniker": "BE\\Models\\KhuyenMai.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\KhuyenMai.cs",
+              "RelativeToolTip": "BE\\Models\\KhuyenMai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:58:00.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "BE\\Controllers\\SanPhamController.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\SanPhamController.cs*",
+              "RelativeToolTip": "BE\\Controllers\\SanPhamController.cs*",
+              "ViewState": "AgIAAFwBAAAAAAAAAADwv1UBAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:30:01.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "BE\\Data\\DbInitializer.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "BE\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:31:31.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BE\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Data\\ApplicationDbContext.cs*",
+              "RelativeToolTip": "BE\\Data\\ApplicationDbContext.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAzwBUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:31:18.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Program.cs",
+              "RelativeDocumentMoniker": "BE\\Program.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Program.cs",
+              "RelativeToolTip": "BE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:35:38.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "NhomQuyen.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\NhomQuyen.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\NhomQuyen.cs",
               "RelativeDocumentMoniker": "BE\\Models\\NhomQuyen.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\NhomQuyen.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\NhomQuyen.cs",
               "RelativeToolTip": "BE\\Models\\NhomQuyen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,35 +286,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SanPham.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\SanPham.cs",
-              "RelativeDocumentMoniker": "BE\\Models\\SanPham.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\SanPham.cs",
-              "RelativeToolTip": "BE\\Models\\SanPham.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T16:30:52.862Z"
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\appsettings.json",
+              "RelativeDocumentMoniker": "BE\\appsettings.json",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\appsettings.json",
+              "RelativeToolTip": "BE\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T16:37:17.615Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TaiKhoanUser.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\TaiKhoanUser.cs",
-              "RelativeDocumentMoniker": "BE\\Models\\TaiKhoanUser.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\TaiKhoanUser.cs",
-              "RelativeToolTip": "BE\\Models\\TaiKhoanUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "NhanHieu.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\NhanHieu.cs",
+              "RelativeDocumentMoniker": "BE\\Models\\NhanHieu.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\NhanHieu.cs",
+              "RelativeToolTip": "BE\\Models\\NhanHieu.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:39:36.283Z"
+              "WhenOpened": "2024-11-25T20:57:36.067Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "ThongTinAdmin.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\ThongTinAdmin.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\ThongTinAdmin.cs",
               "RelativeDocumentMoniker": "BE\\Models\\ThongTinAdmin.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\ThongTinAdmin.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\ThongTinAdmin.cs",
               "RelativeToolTip": "BE\\Models\\ThongTinAdmin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -230,24 +324,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SanPhamController.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\SanPhamController.cs",
-              "RelativeDocumentMoniker": "BE\\Controllers\\SanPhamController.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\SanPhamController.cs",
-              "RelativeToolTip": "BE\\Controllers\\SanPhamController.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAgwI4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BE\\Controllers\\UserController.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BE\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAJABAAAAAAAAAAA1wI0BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T16:30:01.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T15:43:53.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
+              "Title": "TaiKhoanUser.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\TaiKhoanUser.cs",
+              "RelativeDocumentMoniker": "BE\\Models\\TaiKhoanUser.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\TaiKhoanUser.cs",
+              "RelativeToolTip": "BE\\Models\\TaiKhoanUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:39:36.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "NguoiDung.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\NguoiDung.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\NguoiDung.cs",
               "RelativeDocumentMoniker": "BE\\Models\\NguoiDung.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\NguoiDung.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\NguoiDung.cs",
               "RelativeToolTip": "BE\\Models\\NguoiDung.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,35 +360,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoaiSanPham.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\LoaiSanPham.cs",
-              "RelativeDocumentMoniker": "BE\\Models\\LoaiSanPham.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\LoaiSanPham.cs",
-              "RelativeToolTip": "BE\\Models\\LoaiSanPham.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T20:57:03.305Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "KhuyenMai.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\KhuyenMai.cs",
-              "RelativeDocumentMoniker": "BE\\Models\\KhuyenMai.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\KhuyenMai.cs",
-              "RelativeToolTip": "BE\\Models\\KhuyenMai.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T20:58:00.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "HoaDon.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\HoaDon.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\HoaDon.cs",
               "RelativeDocumentMoniker": "BE\\Models\\HoaDon.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\HoaDon.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Models\\HoaDon.cs",
               "RelativeToolTip": "BE\\Models\\HoaDon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -291,35 +372,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "BE\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "BE\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAADwvzsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T16:31:18.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Data\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "BE\\Data\\DbInitializer.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Data\\DbInitializer.cs",
-              "RelativeToolTip": "BE\\Data\\DbInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T16:31:31.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "BannerSliderController.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\BannerSliderController.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\BannerSliderController.cs",
               "RelativeDocumentMoniker": "BE\\Controllers\\BannerSliderController.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\BannerSliderController.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\BannerSliderController.cs",
               "RelativeToolTip": "BE\\Controllers\\BannerSliderController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -327,35 +384,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\appsettings.json",
-              "RelativeDocumentMoniker": "BE\\appsettings.json",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\appsettings.json",
-              "RelativeToolTip": "BE\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-22T16:37:17.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Program.cs",
-              "RelativeDocumentMoniker": "BE\\Program.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Program.cs",
-              "RelativeToolTip": "BE\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T16:35:38.956Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Properties\\launchSettings.json",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BE\\Properties\\launchSettings.json",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Properties\\launchSettings.json",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Properties\\launchSettings.json",
               "RelativeToolTip": "BE\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAkAAAAAAAAAAAAwwA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -363,23 +396,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "BE\\Controllers\\UserController.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\UserController.cs",
-              "RelativeToolTip": "BE\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAOsBAAAAAAAAAAAgwAMCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:43:53.363Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "AdminSanPhamController.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\AdminSanPhamController.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\AdminSanPhamController.cs",
               "RelativeDocumentMoniker": "BE\\Controllers\\AdminSanPhamController.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\AdminSanPhamController.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\AdminSanPhamController.cs",
               "RelativeToolTip": "BE\\Controllers\\AdminSanPhamController.cs",
               "ViewState": "AgIAAPMAAAAAAAAAAAAowCkBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -387,11 +408,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "NguoiDungController.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\NguoiDungController.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\NguoiDungController.cs",
               "RelativeDocumentMoniker": "BE\\Controllers\\NguoiDungController.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\NguoiDungController.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\NguoiDungController.cs",
               "RelativeToolTip": "BE\\Controllers\\NguoiDungController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAAwCQAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -399,11 +420,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "AdminHoaDonController.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\AdminHoaDonController.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\AdminHoaDonController.cs",
               "RelativeDocumentMoniker": "BE\\Controllers\\AdminHoaDonController.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\AdminHoaDonController.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\AdminHoaDonController.cs",
               "RelativeToolTip": "BE\\Controllers\\AdminHoaDonController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAgwCkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -411,11 +432,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "AdminNguoiDungController.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\AdminNguoiDungController.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\AdminNguoiDungController.cs",
               "RelativeDocumentMoniker": "BE\\Controllers\\AdminNguoiDungController.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\AdminNguoiDungController.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\AdminNguoiDungController.cs",
               "RelativeToolTip": "BE\\Controllers\\AdminNguoiDungController.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -423,11 +444,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "NguoiDungService.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Services\\NguoiDungService.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Services\\NguoiDungService.cs",
               "RelativeDocumentMoniker": "BE\\Services\\NguoiDungService.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Services\\NguoiDungService.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Services\\NguoiDungService.cs",
               "RelativeToolTip": "BE\\Services\\NguoiDungService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAqwB8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -435,11 +456,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "SanPhamDto.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Dtors\\SanPhamDto.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Dtors\\SanPhamDto.cs",
               "RelativeDocumentMoniker": "BE\\Dtors\\SanPhamDto.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Dtors\\SanPhamDto.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Dtors\\SanPhamDto.cs",
               "RelativeToolTip": "BE\\Dtors\\SanPhamDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -447,11 +468,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "NguoiDungDto.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Dtors\\NguoiDungDto.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Dtors\\NguoiDungDto.cs",
               "RelativeDocumentMoniker": "BE\\Dtors\\NguoiDungDto.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Dtors\\NguoiDungDto.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Dtors\\NguoiDungDto.cs",
               "RelativeToolTip": "BE\\Dtors\\NguoiDungDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -459,11 +480,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "PaginationHelper.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Helpers\\PaginationHelper.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Helpers\\PaginationHelper.cs",
               "RelativeDocumentMoniker": "BE\\Helpers\\PaginationHelper.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Helpers\\PaginationHelper.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Helpers\\PaginationHelper.cs",
               "RelativeToolTip": "BE\\Helpers\\PaginationHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -471,11 +492,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "JwtHelper.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Helpers\\JwtHelper.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Helpers\\JwtHelper.cs",
               "RelativeDocumentMoniker": "BE\\Helpers\\JwtHelper.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Helpers\\JwtHelper.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Helpers\\JwtHelper.cs",
               "RelativeToolTip": "BE\\Helpers\\JwtHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -483,11 +504,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "MappingProfile.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Mappings\\MappingProfile.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "BE\\Mappings\\MappingProfile.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Mappings\\MappingProfile.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Mappings\\MappingProfile.cs",
               "RelativeToolTip": "BE\\Mappings\\MappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -495,11 +516,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "RequestLoggingMiddleware.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Middlewarres\\RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Middlewarres\\RequestLoggingMiddleware.cs",
               "RelativeDocumentMoniker": "BE\\Middlewarres\\RequestLoggingMiddleware.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Middlewarres\\RequestLoggingMiddleware.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Middlewarres\\RequestLoggingMiddleware.cs",
               "RelativeToolTip": "BE\\Middlewarres\\RequestLoggingMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -507,11 +528,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Middlewarres\\ExceptionMiddleware.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Middlewarres\\ExceptionMiddleware.cs",
               "RelativeDocumentMoniker": "BE\\Middlewarres\\ExceptionMiddleware.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Middlewarres\\ExceptionMiddleware.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Middlewarres\\ExceptionMiddleware.cs",
               "RelativeToolTip": "BE\\Middlewarres\\ExceptionMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -519,11 +540,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "NguoiDungRepository.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Repositories\\NguoiDungRepository.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Repositories\\NguoiDungRepository.cs",
               "RelativeDocumentMoniker": "BE\\Repositories\\NguoiDungRepository.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Repositories\\NguoiDungRepository.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Repositories\\NguoiDungRepository.cs",
               "RelativeToolTip": "BE\\Repositories\\NguoiDungRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -531,11 +552,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "INguoiDungService.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Services\\INguoiDungService.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Services\\INguoiDungService.cs",
               "RelativeDocumentMoniker": "BE\\Services\\INguoiDungService.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Services\\INguoiDungService.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Services\\INguoiDungService.cs",
               "RelativeToolTip": "BE\\Services\\INguoiDungService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -543,11 +564,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "INguoiDungRepository.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Repositories\\INguoiDungRepository.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Repositories\\INguoiDungRepository.cs",
               "RelativeDocumentMoniker": "BE\\Repositories\\INguoiDungRepository.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Repositories\\INguoiDungRepository.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Repositories\\INguoiDungRepository.cs",
               "RelativeToolTip": "BE\\Repositories\\INguoiDungRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -555,22 +576,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "BE",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\BE.csproj",
-              "RelativeDocumentMoniker": "BE\\BE.csproj",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\BE.csproj",
-              "RelativeToolTip": "BE\\BE.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-22T17:13:34.721Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 33,
               "Title": "GenericRepository.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Repositories\\GenericRepository.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "BE\\Repositories\\GenericRepository.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Repositories\\GenericRepository.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Repositories\\GenericRepository.cs",
               "RelativeToolTip": "BE\\Repositories\\GenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -580,9 +590,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "SanPhamService.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Services\\SanPhamService.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Services\\SanPhamService.cs",
               "RelativeDocumentMoniker": "BE\\Services\\SanPhamService.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Services\\SanPhamService.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Services\\SanPhamService.cs",
               "RelativeToolTip": "BE\\Services\\SanPhamService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -592,9 +602,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "GioHangController.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\GioHangController.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\GioHangController.cs",
               "RelativeDocumentMoniker": "BE\\Controllers\\GioHangController.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\GioHangController.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\GioHangController.cs",
               "RelativeToolTip": "BE\\Controllers\\GioHangController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -604,9 +614,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "HoaDonController.cs",
-              "DocumentMoniker": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\HoaDonController.cs",
+              "DocumentMoniker": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\HoaDonController.cs",
               "RelativeDocumentMoniker": "BE\\Controllers\\HoaDonController.cs",
-              "ToolTip": "P:\\HK7\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\HoaDonController.cs",
+              "ToolTip": "P:\\HK7\\TRIEUTONGHOPDOAN\\DA_PTUDTM\\githubDOAN\\webapireactjs_QLQuanAo_PTUDTM\\BE\\BE\\BE\\Controllers\\HoaDonController.cs",
               "RelativeToolTip": "BE\\Controllers\\HoaDonController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
