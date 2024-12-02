@@ -413,7 +413,7 @@ namespace BE.Controllers
                 return BadRequest(new { Message = "Quyền không hợp lệ" });
 
             // Lấy thông tin chi tiết của người dùng hoặc admin
-            var nguoiDung = _context.NguoiDungs.FirstOrDefault(nd => nd.MAUSER == user.MAUSER);
+            var nguoiDung = _context.NguoiDung.FirstOrDefault(nd => nd.MAUSER == user.MAUSER);
             var admin = _context.ThongTinAdmins.FirstOrDefault(ad => ad.MAUSER == user.MAUSER);
 
             var userInfo = nguoiDung != null ? nguoiDung : (object)admin;
@@ -464,7 +464,7 @@ namespace BE.Controllers
         [HttpGet("get-user-info/{maUser}")]
         public IActionResult GetUserInfo(string maUser)
         {
-            var user = _context.NguoiDungs.FirstOrDefault(u => u.MAUSER == maUser);
+            var user = _context.NguoiDung.FirstOrDefault(u => u.MAUSER == maUser);
             if (user != null)
                 return Ok(user);
 
@@ -491,7 +491,7 @@ namespace BE.Controllers
                     u.TENTK,
                     u.MAUSER,
                     Role = role,
-                    UserDetails = _context.NguoiDungs.FirstOrDefault(nd => nd.MAUSER == u.MAUSER)
+                    UserDetails = _context.NguoiDung.FirstOrDefault(nd => nd.MAUSER == u.MAUSER)
                         ?? (object)_context.ThongTinAdmins.FirstOrDefault(ad => ad.MAUSER == u.MAUSER)
                 })
                 .ToList();

@@ -38,5 +38,11 @@ namespace BE.Models
         public LoaiSanPham LoaiSanPham { get; set; }
         public NhanHieu NhanHieu { get; set; }
         public KhuyenMai KhuyenMai { get; set; }
+        public ICollection<GioHang> GioHangs { get; set; }
+        // Navigation Property
+        public ICollection<DanhGia> DanhGias { get; set; }
+        public ICollection<ChiTietHoaDon> ChiTietHoaDons { get; set; }
+
+
     }
 }

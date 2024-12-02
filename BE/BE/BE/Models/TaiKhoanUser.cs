@@ -8,5 +8,7 @@
         public string TENTK { get; set; }
         public string MATKHAU { get; set; }
         public string MAQUYEN { get; set; }
+        // Navigation properties
+        public ICollection<DanhGia> DanhGias { get; set; }
     }
 }

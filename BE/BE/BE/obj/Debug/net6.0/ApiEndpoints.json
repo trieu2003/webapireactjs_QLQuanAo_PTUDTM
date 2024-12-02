@@ -247,6 +247,155 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "BE.Controllers.KhachHangController",
+    "Method": "GetDanhGiaBySanPham",
+    "RelativePath": "api/KhachHang/danhgia/sanpham/{masp}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "masp",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE.Controllers.KhachHangController",
+    "Method": "AddDanhGia",
+    "RelativePath": "api/KhachHang/danhgia/them",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "danhGia",
+        "Type": "BE.Models.DanhGia",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE.Controllers.KhachHangController",
+    "Method": "GetGioHang",
+    "RelativePath": "api/KhachHang/giohang/{mand}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mand",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE.Controllers.KhachHangController",
+    "Method": "UpdateGioHang",
+    "RelativePath": "api/KhachHang/giohang/capnhat/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedGioHang",
+        "Type": "BE.Models.GioHang",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE.Controllers.KhachHangController",
+    "Method": "AddToGioHang",
+    "RelativePath": "api/KhachHang/giohang/them",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gioHang",
+        "Type": "BE.Models.GioHang",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE.Controllers.KhachHangController",
+    "Method": "RemoveFromGioHang",
+    "RelativePath": "api/KhachHang/giohang/xoa/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE.Controllers.KhachHangController",
+    "Method": "GetHoaDonHistory",
+    "RelativePath": "api/KhachHang/hoadon/lichsu/{mand}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mand",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE.Controllers.KhachHangController",
+    "Method": "CreateHoaDon",
+    "RelativePath": "api/KhachHang/hoadon/tao",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hoaDon",
+        "Type": "BE.Models.HoaDon",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE.Controllers.KhachHangController",
+    "Method": "ThanhToan",
+    "RelativePath": "api/KhachHang/thanhtoan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "thanhToan",
+        "Type": "BE.Models.ThanhToan",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "BE.Controllers.NguoiDungController",
     "Method": "GetAll",
     "RelativePath": "api/NguoiDung",
