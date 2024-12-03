@@ -13,7 +13,7 @@ namespace BE.Models
         public int? TONGTIEN { get; set; }
         public int? TINHTRANG { get; set; }
         // Navigation properties
-        public ThanhToan ThanhToan { get; set; }
+        //public ThanhToan ThanhToan { get; set; }
         public ICollection<ChiTietHoaDon> ChiTietHoaDons { get; set; }
 
     }

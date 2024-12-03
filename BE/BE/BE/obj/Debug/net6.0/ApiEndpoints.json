@@ -324,8 +324,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "gioHang",
-        "Type": "BE.Models.GioHang",
+        "Name": "input",
+        "Type": "GioHangInputModel",
         "IsRequired": true
       }
     ],

@@ -289,51 +289,64 @@ namespace BE.Data
                 .HasForeignKey(sp => sp.MAKM)
                 .HasPrincipalKey(km => km.MAKM);
 
-            // GioHang - NguoiDung
-            modelBuilder.Entity<GioHang>()
-                .HasOne(gh => gh.NguoiDung)
-                .WithMany(nd => nd.GioHangs)
-                .HasForeignKey(gh => gh.MAND)
-                .HasPrincipalKey(nd => nd.MAND);
+            //// GioHang - NguoiDung
+            //modelBuilder.Entity<GioHang>()
+            //    .HasOne(gh => gh.NguoiDung)
+            //    .WithMany(nd => nd.GioHangs)
+            //    .HasForeignKey(gh => gh.MAND)
+            //    .HasPrincipalKey(nd => nd.MAND);
 
-            // GioHang - SanPham
+            //// GioHang - SanPham
+            //modelBuilder.Entity<GioHang>()
+            //    .HasOne(gh => gh.SanPham)
+            //    .WithMany(sp => sp.GioHangs)
+            //    .HasForeignKey(gh => gh.MASP)
+            //    .HasPrincipalKey(sp => sp.MASP);
+
+            //// DanhGia - SanPham
+            //modelBuilder.Entity<DanhGia>()
+            //    .HasOne(dg => dg.SanPham)
+            //    .WithMany(sp => sp.DanhGias)
+            //    .HasForeignKey(dg => dg.MASP)
+            //    .HasPrincipalKey(sp => sp.MASP);
+
+            //// DanhGia - NguoiDung
+            //modelBuilder.Entity<DanhGia>()
+            //    .HasOne(dg => dg.NguoiDung)
+            //    .WithMany(nd => nd.DanhGias)
+            //    .HasForeignKey(dg => dg.MAND)
+            //    .HasPrincipalKey(nd => nd.MAND);
+
+            //// ThanhToan - HoaDon
+            //modelBuilder.Entity<ThanhToan>()
+            //    .HasOne(tt => tt.HoaDon)
+            //    .WithOne(hd => hd.ThanhToan)
+            //    .HasForeignKey<ThanhToan>(tt => tt.TongTien);
+
+            //// ChiTietHoaDon - HoaDon
+            //modelBuilder.Entity<ChiTietHoaDon>()
+            //    .HasOne(cthd => cthd.HoaDon)
+            //    .WithMany(hd => hd.ChiTietHoaDons)
+            //    .HasForeignKey(cthd => cthd.MAHD);
+
+            //// ChiTietHoaDon - SanPham
+            //modelBuilder.Entity<ChiTietHoaDon>()
+            //    .HasOne(cthd => cthd.SanPham)
+            //    .WithMany(sp => sp.ChiTietHoaDons)
+            //    .HasForeignKey(cthd => cthd.MASP);
+            modelBuilder.Entity<GioHang>()
+    .HasOne(gh => gh.NguoiDung)
+    .WithMany(nd => nd.GioHangs)
+    .HasForeignKey(gh => gh.MAND)
+    .HasPrincipalKey(nd => nd.MAND);
+
             modelBuilder.Entity<GioHang>()
                 .HasOne(gh => gh.SanPham)
                 .WithMany(sp => sp.GioHangs)
                 .HasForeignKey(gh => gh.MASP)
                 .HasPrincipalKey(sp => sp.MASP);
 
-            // DanhGia - SanPham
-            modelBuilder.Entity<DanhGia>()
-                .HasOne(dg => dg.SanPham)
-                .WithMany(sp => sp.DanhGias)
-                .HasForeignKey(dg => dg.MASP)
-                .HasPrincipalKey(sp => sp.MASP);
 
-            // DanhGia - NguoiDung
-            modelBuilder.Entity<DanhGia>()
-                .HasOne(dg => dg.NguoiDung)
-                .WithMany(nd => nd.DanhGias)
-                .HasForeignKey(dg => dg.MAND)
-                .HasPrincipalKey(nd => nd.MAND);
-
-            // ThanhToan - HoaDon
-            modelBuilder.Entity<ThanhToan>()
-                .HasOne(tt => tt.HoaDon)
-                .WithOne(hd => hd.ThanhToan)
-                .HasForeignKey<ThanhToan>(tt => tt.TongTien);
-
-            // ChiTietHoaDon - HoaDon
-            modelBuilder.Entity<ChiTietHoaDon>()
-                .HasOne(cthd => cthd.HoaDon)
-                .WithMany(hd => hd.ChiTietHoaDons)
-                .HasForeignKey(cthd => cthd.MAHD);
-
-            // ChiTietHoaDon - SanPham
-            modelBuilder.Entity<ChiTietHoaDon>()
-                .HasOne(cthd => cthd.SanPham)
-                .WithMany(sp => sp.ChiTietHoaDons)
-                .HasForeignKey(cthd => cthd.MASP);
 
             base.OnModelCreating(modelBuilder);
         }

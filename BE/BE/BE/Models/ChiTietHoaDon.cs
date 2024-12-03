@@ -6,9 +6,9 @@ namespace BE.Models
     [Table("chitiethoadon")]
     public class ChiTietHoaDon
     {
-        [Key]
+        
         public int ID { get; set; } // Khóa chính
-
+        [Key]
         [Required]
         [StringLength(10)]
         public string MACTHD { get; set; } // Mã chi tiết hóa đơn
@@ -31,11 +31,11 @@ namespace BE.Models
         [Timestamp]
         public byte[] RowVersion { get; set; } // Dùng để kiểm soát đồng bộ (timestamp)
 
-        // Navigation Properties
-        [ForeignKey("MAHD")]
-        public HoaDon HoaDon { get; set; } // Tham chiếu đến bảng HoaDon
+        //// Navigation Properties
+        //[ForeignKey("MAHD")]
+        //public HoaDon HoaDon { get; set; } // Tham chiếu đến bảng HoaDon
 
-        [ForeignKey("MASP")]
-        public SanPham SanPham { get; set; } // Tham chiếu đến bảng SanPham
+        //[ForeignKey("MASP")]
+        //public SanPham SanPham { get; set; } // Tham chiếu đến bảng SanPham
     }
 }

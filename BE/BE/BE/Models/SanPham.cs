@@ -42,6 +42,8 @@ namespace BE.Models
         // Navigation Property
         public ICollection<DanhGia> DanhGias { get; set; }
         public ICollection<ChiTietHoaDon> ChiTietHoaDons { get; set; }
+        //public ICollection<GioHang> GioHangs { get; set; }
+
 
 
     }

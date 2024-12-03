@@ -16,7 +16,7 @@ namespace BE.Models
         public string MASP { get; set; } // Mã sản phẩm (Foreign Key)
 
         // Navigation Property
-        [ForeignKey("MASP")]
-        public SanPham SanPham { get; set; } // Tham chiếu đến bảng SanPham
+        //[ForeignKey("MASP")]
+        //public SanPham SanPham { get; set; } // Tham chiếu đến bảng SanPham
     }
 }

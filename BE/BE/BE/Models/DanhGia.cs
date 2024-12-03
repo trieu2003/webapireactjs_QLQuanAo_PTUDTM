@@ -8,7 +8,7 @@ namespace BE.Models
     public class DanhGia
     {
         [Key]
-        public int ID { get; set; } // Khóa chính
+        public int ID { get; set; }
 
         [StringLength(10)]
         public string MAND { get; set; } // Mã người dùng (Foreign Key)
@@ -30,14 +30,14 @@ namespace BE.Models
         public string MASP { get; set; } // Foreign Key
 
        
-        [ForeignKey("MAND")]
-        public NguoiDung NguoiDung { get; set; } // Tham chiếu đến bảng NguoiDung
+        //[ForeignKey("MAND")]
+        //public NguoiDung NguoiDung { get; set; } // Tham chiếu đến bảng NguoiDung
 
-        [ForeignKey("MACTHD")]
-        public ChiTietHoaDon ChiTietHoaDon { get; set; } // Tham chiếu đến bảng ChiTietHoaDon
+        //[ForeignKey("MACTHD")]
+        //public ChiTietHoaDon ChiTietHoaDon { get; set; } // Tham chiếu đến bảng ChiTietHoaDon
 
-        [ForeignKey("MASP")]
-        public SanPham SanPham { get; set; } // Tham chiếu đến bảng SanPham
+        //[ForeignKey("MASP")]
+        //public SanPham SanPham { get; set; } // Tham chiếu đến bảng SanPham
  
     }
 }
