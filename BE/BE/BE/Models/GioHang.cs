@@ -32,5 +32,6 @@ namespace BE.Models
 
         ////[ForeignKey("MASP")]
         public SanPham SanPham { get; set; } // Tham chiếu đến bảng SanPham
+
     }
 }

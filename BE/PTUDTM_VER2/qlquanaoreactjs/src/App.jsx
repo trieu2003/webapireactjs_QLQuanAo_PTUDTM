@@ -10,6 +10,10 @@ import AdminMenu from "./pages/AdminMenu";
 import CustomerMenu from "./pages/CustomerMenu";
 import KhachHangHome from "./pages/KhachHangHome";
 import ProductDetails from "./pages/ProductDetails";
+import Profile from "./components/profile";
+import Cart from "./pages/Cart";
+
+
 
 const App = () => {
   return (
@@ -20,7 +24,9 @@ const App = () => {
        <Route path="/pages/AdminHome" element={<AdminHome />} />
        <Route path="/KhachHangHome" element={<KhachHangHome />} />
        <Route path="/product/:id" element={<ProductDetails />} />
-       
+       < Route path="/profile" element={<Profile />} />
+       <Route path="/Cart" element={<Cart />} />
+     
 {/* Trang dành cho Nhân viên */}
       <Route path="/pages/NhanVienHome" element={<NhanVienHome />} />
         <Route path="/ChangePassword" element={<ChangePassword />} /> {/* Trang đổi mật khất */}

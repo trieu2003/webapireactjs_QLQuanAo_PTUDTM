@@ -45,6 +45,37 @@ export const api = {
     axiosInstance.get("/SanPham/filter", {
       params: filters,
     }),
+      // Size API
+  // ----------------------
+  getSizesByProduct: (masp) => axiosInstance.get(`/KhachHang/sanpham/sizes/${masp}`),
+
+      // ----------------------
+  // Giỏ hàng API
+  // ----------------------
+  getCartByUserId: (userId) => axiosInstance.get(`/KhachHang/giohang/${userId}`),
+  addToCart: (cartItem) => axiosInstance.post("/KhachHang/giohang/them", cartItem),
+  updateCartItem: (id, updatedItem) =>
+    axiosInstance.put(`/KhachHang/giohang/capnhat/${id}`, updatedItem),
+  deleteCartItem: (id) => axiosInstance.delete(`/KhachHang/giohang/xoa/${id}`),
+
+  // ----------------------
+  // Hóa đơn API
+  // ----------------------
+  createHoaDon: (hoaDon) => axiosInstance.post("/KhachHang/hoadon/tao", hoaDon),
+  getHoaDonHistory: (userId) =>
+    axiosInstance.get(`/KhachHang/hoadon/lichsu/${userId}`),
+
+  // ----------------------
+  // Đánh giá API
+  // ----------------------  // Đánh giá API
+  addDanhGia: (danhGia) => axiosInstance.post("/KhachHang/danhgia/them", danhGia),
+  getDanhGiaShop: () => axiosInstance.get("/KhachHang/danhgia/shop"),
+
+  // ----------------------
+  // Thanh toán API
+  // ----------------------
+  makePayment: (paymentDetails) =>
+    axiosInstance.post("/KhachHang/thanhtoan", paymentDetails),
 };
 
 

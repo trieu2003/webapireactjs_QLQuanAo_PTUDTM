@@ -37,7 +37,7 @@ const Header = () => {
             placeholder="Tìm kiếm"
             className="px-3 py-2 border rounded-lg focus:outline-none"
           />
-          <Link to="/Cart" className="text-gray-700 hover:text-blue-600">
+          <Link to="/cart" className="text-gray-700 hover:text-blue-600">
             🛒
           </Link>
           <Link to="/profile" className="text-gray-700 hover:text-blue-600">

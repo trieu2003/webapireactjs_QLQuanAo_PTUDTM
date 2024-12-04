@@ -1,18 +1,29 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace BE.Models
 {
+    [Table("ThanhToan")] // Bảo đảm ánh xạ đúng với tên bảng trong cơ sở dữ liệu
     public class ThanhToan
     {
         [Key]
         public int ID { get; set; }
-        public string MAHD { get; set; } // Mã hóa đơn
-        public string MAND { get; set; } // Mã người dùng
+        [Required]
+        public string MATHANHTOAN { get; set; } // Unique Key
+        [Required]
+        public string MAHD { get; set; }
+        [Required]
+        public string MAND { get; set; }
         public DateTime NgayThanhToan { get; set; }
         public int TongTien { get; set; }
+        public int PhuongThucThanhToan { get; set; }
 
-        // Navigation property
-        public HoaDon HoaDon { get; set; }
+        // Navigation properties
+        [ForeignKey("MAND")]
         public NguoiDung NguoiDung { get; set; }
+
+        [ForeignKey("MAHD")]
+        public HoaDon HoaDon { get; set; }
     }
+
 }

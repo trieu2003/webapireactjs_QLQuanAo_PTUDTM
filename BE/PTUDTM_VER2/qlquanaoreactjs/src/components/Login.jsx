@@ -620,14 +620,16 @@ const Login = () => {
       const response = await axios.post("/user/login", { username, password });
       const { redirectUrl, role, userDetails } = response.data;
 
+      console.log(response.data);
       if (!redirectUrl) {
         setMessage("Không thể điều hướng. Hãy kiểm tra lại API.");
         return;
       }
-
+      localStorage.setItem("mand", userDetails.mand);
       localStorage.setItem("userDetails", JSON.stringify(userDetails));
       localStorage.setItem("userRole", role);
 
+      console.log("mand:", userDetails.mand);
       if (role === "Khách Hàng") navigate("/KhachHangHome");
       else if (role === "Admin") navigate("/AdminHome");
       else if (role === "Nhân Viên") navigate("/NhanVienHome");

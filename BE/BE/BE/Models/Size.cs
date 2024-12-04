@@ -13,10 +13,13 @@ namespace BE.Models
         public string SIZESP { get; set; } // Size của sản phẩm
 
         [StringLength(10)]
+        [ForeignKey("SanPham")] // Khóa ngoại trỏ tới bảng SanPham
         public string MASP { get; set; } // Mã sản phẩm (Foreign Key)
 
         // Navigation Property
         //[ForeignKey("MASP")]
         //public SanPham SanPham { get; set; } // Tham chiếu đến bảng SanPham
+       
+        public SanPham SanPham { get; set; } // Tham chiếu đến bảng SanPham
     }
 }

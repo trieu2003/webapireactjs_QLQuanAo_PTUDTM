@@ -27,9 +27,10 @@ namespace BE.Models
 
         [Required]
         public int TINHTRANG { get; set; } // Tình trạng (bắt buộc)
-        public string MASP { get; set; } // Foreign Key
+    
+    
 
-       
+
         //[ForeignKey("MAND")]
         //public NguoiDung NguoiDung { get; set; } // Tham chiếu đến bảng NguoiDung
 
@@ -37,7 +38,7 @@ namespace BE.Models
         //public ChiTietHoaDon ChiTietHoaDon { get; set; } // Tham chiếu đến bảng ChiTietHoaDon
 
         //[ForeignKey("MASP")]
-        //public SanPham SanPham { get; set; } // Tham chiếu đến bảng SanPham
- 
+
+
     }
 }

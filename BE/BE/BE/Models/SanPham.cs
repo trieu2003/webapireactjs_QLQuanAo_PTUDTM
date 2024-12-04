@@ -5,7 +5,7 @@ namespace BE.Models
 {
     public class SanPham
     {
-        [Key]
+        [Key] 
         public int ID { get; set; }
 
         [Required]
@@ -42,9 +42,11 @@ namespace BE.Models
         // Navigation Property
         public ICollection<DanhGia> DanhGias { get; set; }
         public ICollection<ChiTietHoaDon> ChiTietHoaDons { get; set; }
-        //public ICollection<GioHang> GioHangs { get; set; }
+        public ICollection<Size> Sizes { get; set; } // Danh sách size liên quan
+    
+    //public ICollection<GioHang> GioHangs { get; set; }
 
 
 
-    }
+}
 }

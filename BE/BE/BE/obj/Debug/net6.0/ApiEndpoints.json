@@ -248,18 +248,12 @@
   },
   {
     "ContainingType": "BE.Controllers.KhachHangController",
-    "Method": "GetDanhGiaBySanPham",
-    "RelativePath": "api/KhachHang/danhgia/sanpham/{masp}",
+    "Method": "GetDanhGiaShop",
+    "RelativePath": "api/KhachHang/danhgia/shop",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [
-      {
-        "Name": "masp",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
+    "Parameters": [],
     "ReturnTypes": []
   },
   {
@@ -271,8 +265,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "danhGia",
-        "Type": "BE.Models.DanhGia",
+        "Name": "input",
+        "Type": "DanhGiaInputModel",
         "IsRequired": true
       }
     ],
@@ -308,8 +302,8 @@
         "IsRequired": true
       },
       {
-        "Name": "updatedGioHang",
-        "Type": "BE.Models.GioHang",
+        "Name": "input",
+        "Type": "GioHangInputModel",
         "IsRequired": true
       }
     ],
@@ -381,6 +375,22 @@
   },
   {
     "ContainingType": "BE.Controllers.KhachHangController",
+    "Method": "GetSizesByProduct",
+    "RelativePath": "api/KhachHang/sanpham/sizes/{masp}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "masp",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BE.Controllers.KhachHangController",
     "Method": "ThanhToan",
     "RelativePath": "api/KhachHang/thanhtoan",
     "HttpMethod": "POST",
@@ -388,8 +398,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "thanhToan",
-        "Type": "BE.Models.ThanhToan",
+        "Name": "input",
+        "Type": "ThanhToanInputModel",
         "IsRequired": true
       }
     ],

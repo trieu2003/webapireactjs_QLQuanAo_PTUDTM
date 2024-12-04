@@ -385,6 +385,7 @@ const ProductCard = ({ product }) => {
   const navigate = useNavigate();
   const imageBasePath = "src/assets/images/"; // Đường dẫn tới thư mục hình ảnh
 
+
   // Tính giá sau khi giảm
   const discountedPrice = product.phanTramGiam
     ? product.gia * (1 - product.phanTramGiam / 100)

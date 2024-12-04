@@ -289,51 +289,7 @@ namespace BE.Data
                 .HasForeignKey(sp => sp.MAKM)
                 .HasPrincipalKey(km => km.MAKM);
 
-            //// GioHang - NguoiDung
-            //modelBuilder.Entity<GioHang>()
-            //    .HasOne(gh => gh.NguoiDung)
-            //    .WithMany(nd => nd.GioHangs)
-            //    .HasForeignKey(gh => gh.MAND)
-            //    .HasPrincipalKey(nd => nd.MAND);
-
-            //// GioHang - SanPham
-            //modelBuilder.Entity<GioHang>()
-            //    .HasOne(gh => gh.SanPham)
-            //    .WithMany(sp => sp.GioHangs)
-            //    .HasForeignKey(gh => gh.MASP)
-            //    .HasPrincipalKey(sp => sp.MASP);
-
-            //// DanhGia - SanPham
-            //modelBuilder.Entity<DanhGia>()
-            //    .HasOne(dg => dg.SanPham)
-            //    .WithMany(sp => sp.DanhGias)
-            //    .HasForeignKey(dg => dg.MASP)
-            //    .HasPrincipalKey(sp => sp.MASP);
-
-            //// DanhGia - NguoiDung
-            //modelBuilder.Entity<DanhGia>()
-            //    .HasOne(dg => dg.NguoiDung)
-            //    .WithMany(nd => nd.DanhGias)
-            //    .HasForeignKey(dg => dg.MAND)
-            //    .HasPrincipalKey(nd => nd.MAND);
-
-            //// ThanhToan - HoaDon
-            //modelBuilder.Entity<ThanhToan>()
-            //    .HasOne(tt => tt.HoaDon)
-            //    .WithOne(hd => hd.ThanhToan)
-            //    .HasForeignKey<ThanhToan>(tt => tt.TongTien);
-
-            //// ChiTietHoaDon - HoaDon
-            //modelBuilder.Entity<ChiTietHoaDon>()
-            //    .HasOne(cthd => cthd.HoaDon)
-            //    .WithMany(hd => hd.ChiTietHoaDons)
-            //    .HasForeignKey(cthd => cthd.MAHD);
-
-            //// ChiTietHoaDon - SanPham
-            //modelBuilder.Entity<ChiTietHoaDon>()
-            //    .HasOne(cthd => cthd.SanPham)
-            //    .WithMany(sp => sp.ChiTietHoaDons)
-            //    .HasForeignKey(cthd => cthd.MASP);
+           
             modelBuilder.Entity<GioHang>()
     .HasOne(gh => gh.NguoiDung)
     .WithMany(nd => nd.GioHangs)
@@ -347,6 +303,76 @@ namespace BE.Data
                 .HasPrincipalKey(sp => sp.MASP);
 
 
+
+            // Cấu hình quan hệ giữa Size và SanPham
+            modelBuilder.Entity<Size>()
+                .HasOne(size => size.SanPham)
+                .WithMany(sp => sp.Sizes)
+                .HasForeignKey(size => size.MASP)
+                .HasPrincipalKey(sp => sp.MASP);
+            // Khóa chính của bảng SanPham là MASP
+            // Cấu hình cho HoaDon
+            modelBuilder.Entity<HoaDon>()
+     .HasKey(hd => hd.ID); // ID là khóa chính
+
+            modelBuilder.Entity<HoaDon>()
+                .HasIndex(hd => hd.MAHD) // MAHD là Unique Key
+                .IsUnique();
+
+            modelBuilder.Entity<HoaDon>()
+                .HasMany(hd => hd.ChiTietHoaDons)
+                .WithOne(cthd => cthd.HoaDon)
+                .HasForeignKey(cthd => cthd.MAHD)
+                .HasPrincipalKey(hd => hd.MAHD);
+
+            modelBuilder.Entity<ChiTietHoaDon>()
+    .HasOne(cthd => cthd.HoaDon)
+    .WithMany(hd => hd.ChiTietHoaDons)
+    .HasForeignKey(cthd => cthd.MAHD)
+    .HasPrincipalKey(hd => hd.MAHD);
+
+            //modelBuilder.Entity<ChiTietHoaDon>()
+            //    .HasOne(cthd => cthd.SanPham)
+            //    .WithMany()
+            //    .HasForeignKey(cthd => cthd.MASP)
+            //    .HasPrincipalKey(sp => sp.MASP);
+            // Bảng SanPham: Thiết lập chỉ mục duy nhất cho MASP
+            modelBuilder.Entity<SanPham>()
+     .HasIndex(sp => sp.MASP)
+     .IsUnique(); // Đảm bảo MASP là duy nhất trong bảng SanPham
+
+
+            // Cấu hình ánh xạ `ChiTietHoaDon` và `SanPham`
+            modelBuilder.Entity<ChiTietHoaDon>()
+      .HasOne(cthd => cthd.SanPham) // Liên kết với SanPham
+      .WithMany() // Không cần liên kết ngược từ SanPham
+      .HasForeignKey(cthd => cthd.MASP) // Dùng MASP làm khóa ngoại
+      .HasPrincipalKey(sp => sp.MASP); // MASP là cột duy nhất trong SanPham
+
+            //modelBuilder.Entity<ChiTietHoaDon>().Ignore(cthd => cthd.MASP);
+    
+
+
+
+
+
+
+
+            modelBuilder.Entity<ThanhToan>()
+                .HasOne(tt => tt.HoaDon)
+                .WithMany()
+                .HasForeignKey(tt => tt.MAHD)
+                .HasPrincipalKey(hd => hd.MAHD);
+
+            modelBuilder.Entity<ThanhToan>()
+                .HasOne(tt => tt.NguoiDung)
+                .WithMany()
+                .HasForeignKey(tt => tt.MAND)
+                .HasPrincipalKey(nd => nd.MAND);
+
+            modelBuilder.Entity<ThanhToan>()
+                .HasIndex(tt => tt.MATHANHTOAN) // MATHANHTOAN là Unique Key
+                .IsUnique();
 
             base.OnModelCreating(modelBuilder);
         }
